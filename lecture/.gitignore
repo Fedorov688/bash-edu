@@ -1,2 +1,5 @@
 *.txt
 *.bak
+*.log
+*.conf
+*.sh
